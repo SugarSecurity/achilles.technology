@@ -1,0 +1,7 @@
+pulumi
+pulumi-gcp
+pulumi-docker
+
+flask
+pycurl
+gunicorn
